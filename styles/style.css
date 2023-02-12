@@ -289,3 +289,35 @@ img {
     color: #F99417;
     padding: 100px 100px 100px 100px;
 }
+
+.register-form{
+    height: 100vh;
+    width: 100vw;
+    background-color: #333232;
+}
+
+
+.register-form h2{
+    font-size: 3.5em;
+    margin-bottom: 10px;
+    color: #F99417;
+    padding: 100px 100px 100px 100px;
+}
+
+.register-form form{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    color: white;
+}
+.register-form .wrapper {
+    display: block;
+    text-align: center;
+}
+fieldset{
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
